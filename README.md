@@ -1,0 +1,2 @@
+# yakuna_dictionary
+あひる焼くなプラグイン用の辞書データ
